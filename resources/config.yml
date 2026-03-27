@@ -1,0 +1,14 @@
+# =========================
+# Hola Este Plugin Tiene
+# La Función de customizar los
+# mensajes de muertes a tu
+# Gusto :D.
+# att: iTzDarkoPvP
+# =========================
+
+death-messages:
+  entity-attack: "§l§cCustomDeath §8| §r§c{player} §ffue asesinado por§c {killer}"
+  fall: "§l§cCustomDeath §8| §r§c{player} §fcayó desde una gran altura."
+  drowning: "§l§cCustomDeath §8| §r§c{player} §fse ahogó."
+  kill-command: "§l§cCustomDeath §8| §r§c{player}§f fue eliminado por un comando."
+  default: "§l§cCustomDeath §8| §r§c{player} §fmurió."

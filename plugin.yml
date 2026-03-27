@@ -1,0 +1,5 @@
+name: CustomDeaths
+main: CustomDeaths\Main
+version: 1.0.0 §fBy zCqtxz
+api: ['2.0.0']
+description: CustomDeaths Con este plugin puedes customizar los mensajes de las muertes en el juego
